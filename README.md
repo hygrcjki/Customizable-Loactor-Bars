@@ -1,6 +1,6 @@
 # Customizable Locator Bars
 
-A server-side Fabric 26.2 mod for managing private locator-bar groups. Install the mod and Fabric API on the server only; unmodded 26.2 clients can join normally.
+A server-side Fabric 26.3 mod for managing private locator-bar groups. Install the mod and Fabric API on the server only; unmodded 26.3 clients can join normally.
 
 ## Player commands
 
